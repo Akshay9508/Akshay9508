@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay C Rao</h1>
 <h3 align="center">A Freelance Data Analyst, with skills in Data Science, Machine Learning, and Deep Learning. I've worked on minor projects using frameworks such as Tensorflow, Keras, Scikit-learn, and SciPy. I am also having good programming skills in Python, SQL, R, VBA and HTML along with CSS3.</h3>
-<img align="right" width=400 alt="coding" src" "
+<img align="right" width=400 alt="coding" src="https://github.com/Akshay9508/Akshay9508/blob/main/profile%20gif%203.gif">
+
 
 - 📝 I regularly write articles on [https://medium.com/@akshay9508](https://medium.com/@akshay9508)
 
