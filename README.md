@@ -2,11 +2,11 @@
 
 # 💫 About Me:
 
-Hi 👋, I'm Akshay C Rao, A Freelance Data Analyst, with skills in Data Science, Machine Learning, and Deep Learning. I've worked on real time projects using frameworks such as Pandas, Matplotlib, Seaborn & Scikit-learn. I am also having good programming skills in Python, SQL, R, VBA and HTML along with CSS3.
+Hi 👋, I'm Akshay C Rao, A Freelance Data Analyst, with skills in Data Science, Machine Learning, and Deep Learning. I've worked on real time projects using frameworks such as Scikit-learn, Keras, Scipy & NLTK. I am also having good programming skills in Python, SQL, R, VBA and HTML along with CSS3.
 <img align="right" width=400 alt="coding" src="https://github.com/Akshay9508/Akshay9508/blob/main/profile%20gif%203.gif">
 
 
-🔭 I’m currently working on Free A.I Digital Tools Websites<br>🌱 I’m currently learning NLP and Algo Trading<br>💬 Ask me anything about Data Science and related technologies
+🔭 I’m currently working on [Free A.I Digital Website](https://digitaltools4free.blogspot.com/)<br>🌱 I’m currently learning NLP Frameworks and Algo Trading<br>💬 Ask me anything about Data Science and related technologies
 
 
 ### Blogs posts
