@@ -6,7 +6,7 @@ Hi 👋, I'm Akshay C Rao, A Freelance Data Analyst, with skills in Data Science
 <img align="right" width=400 alt="coding" src="https://github.com/Akshay9508/Akshay9508/blob/main/profile%20gif%203.gif">
 
 
-🔭 I’m currently working on [Free A.I Digital Website](https://digitaltools4free.blogspot.com/)<br>🌱 I’m currently learning NLP Frameworks and Algo Trading<br>💬 Ask me anything about Data Science and related technologies
+🔭 I’m currently working on [Free A.I Digital Tools Website](https://digitaltools4free.blogspot.com/)<br>🌱 I’m currently learning more on NLP Frameworks and Algo Trading<br>💬 Ask me anything about Data Science and related technologies
 
 
 ### Blogs posts
